@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PropertyWatch</string>
+    <string name="email">EMAIL A FRIEND</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location_label">Location</string>
+    <string name="address_label">Address</string>
+    <string name="map_button">Show on Map</string>
+    <string name="email_title">Investment Property Advice</string>
+    <string name="email_message">I would like to recommend this property at %1$s listed for $%2$d</string>
+
+</resources>
